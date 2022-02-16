@@ -11,14 +11,14 @@ body {
 }
 
 .footer{
-    background-color: #E9E9E9;
+    background-color: black;
 	color: #000000;
 	padding: 10px;
     text-align: center;
 }
 
 .contact-icon{
-	color: #000000;
+	color: white;
 	padding: 7px;
 }
 
