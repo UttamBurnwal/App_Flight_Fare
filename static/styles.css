@@ -16,19 +16,10 @@ body {
 }
 
 
-.contact-icon{
-    color: red;
-    padding: 7px;
-    text-align: center;
-}
-
-.contact-icon:hover{
-    color: #a6a19a;
-}
-
-.footer-description{
-    margin: 0;
-    font-size: 12px;
-    font-weight: 100;
+.footer{
+    background-color: #E9E9E9;
+	color: #000000;
+    font-weight: bold;
+    padding: 10px;
     text-align: center;
 }
