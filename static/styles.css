@@ -18,22 +18,22 @@ body {
 
 .footer{
     background-color: #E9E9E9;
-	color: #000000;
+    color: #000000;
     padding: 10px;
     text-align: center;
 }
 
 .contact-icon{
-	color: red;
-	padding: 7px;
+    color: red;
+    padding: 7px;
 }
 
 .contact-icon:hover{
-	color: #a6a19a;
+    color: #a6a19a;
 }
 
 .footer-description{
-	margin: 0;
-	font-size: 12px;
-	font-weight: 100;
+    margin: 0;
+    font-size: 12px;
+    font-weight: 100;
 }
