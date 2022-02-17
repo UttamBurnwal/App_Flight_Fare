@@ -6,7 +6,9 @@ html{
 body {
     background-image: url('https://wallpaperaccess.com/full/254381.jpg');
     background-repeat: no-repeat;
-    background-size: 1366px 768px;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
     text-align: center;
     height: 100%;
     margin: 0;
