@@ -1,5 +1,5 @@
 # App_Flight_Fare:
---> A Machine Learning Web App that can predict the flight prices. It is created with Flask and deployed on Heroku platform.
+--> A Machine Learning Web App that can predict the flight prices. It is created with ```Flask``` and deployed on ```Heroku``` platform.
 
 Visit: https://flight-fare-generator.herokuapp.com/
 
