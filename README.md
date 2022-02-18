@@ -29,11 +29,11 @@ Visit: https://flight-fare-generator.herokuapp.com/
 * Template folder contains the html file which depicts the format of the web page.
 * Data_Train.xlsx is the dataset file which is the excel format.
 * Flight_fare_prediction.py contains all the notebook code, the execution results as well as the codes that has helped in generating the model for the web app.
-* Procfile includes the code '''web: gunicorn app:app --preload''' which depicts that gunicorn commands are run by the application's containers on the platform.
+* Procfile includes the code ``` web: gunicorn app:app --preload ``` which depicts that gunicorn commands are run by the application's containers on the platform. To create a procfile run the following command on command prompt. ``` echo web: gunicorn app:app --preload > Procfile ```
 * README.md includes the stucture that provides a detailed description of my GitHub project.
 * app.py includes the all the routes and functions to perform the actions of web app. This file is the root of our Flask application which we will run in the command line prompt.
 * flight_price_rfr.pkl is the random forest regression model that is the core of my web application.
-* Requirements.txt file includes all the libraries that has been used to create the web app.
+* Requirements.txt file includes all the libraries that has been used to create the web app. To create a requirments.txt file, run the following command in command prompt.``` pip freeze > requirements.txt ```
 
 ## Libraries Used
 --> This section contains the list of the libraries that have been used to create the web app. 
