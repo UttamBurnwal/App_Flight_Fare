@@ -33,7 +33,7 @@ Visit: https://flight-fare-generator.herokuapp.com/
 * README.md includes the stucture that provides a detailed description of my GitHub project.
 * app.py includes the all the routes and functions to perform the actions of web app. This file is the root of our Flask application which we will run in the command line prompt.
 * flight_price_rfr.pkl is the random forest regression model that is the core of my web application.
-* Requirements.txt file includes all the libraries that has been used to create the web app. To create a requirments.txt file, run the following command in command prompt.``` pip freeze > requirements.txt ```
+* Requirements.txt file includes all the libraries that has been used to create the web app. After installing all the required packages, ``` pip freeze > requirements.txt ``` command was run on the command prompt to create the requirements.txt file
 
 ## Libraries Used
 --> This section contains the list of the libraries that have been used to create the web app. 
