@@ -5,8 +5,9 @@ Visit: https://flight-fare-generator.herokuapp.com/
 
 ## A glimpse of the web app:
 
- ![GIF](readme_resources/ipl-first-innings-score-web-app.gif)
+ ![IMAGE](static/Home.PNG)
  
+ ![IMAGE](static/Predict.PNG)
 
 ## Directory Tree
 --> Here are some details of the subdirectories and files that the repository contains. 
